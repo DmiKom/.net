@@ -1,0 +1,210 @@
+﻿body {
+   background-color: black;
+   margin: 0;
+   background-size: 100%;
+   height: auto;
+    clear: both;
+    }
+
+
+header {
+    font-size: 400%;
+    font-family: sans-serif;
+    margin: 0;
+    text-align: center;
+    color: orange;
+    height: 100px;
+    background-color: #097054;
+    background-position: center;
+}
+#loginForm
+{
+    margin: 0 auto;
+    margin-left 40%;
+}
+    
+h1 {
+    border-top: solid thick;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    
+}
+h1 a{
+    text-decoration: none;
+    font-size: 100%;
+    margin: 1em;
+   
+    
+}
+article {
+    width: 960px;
+    height: auto;
+    border: hidden;
+
+
+    margin-top: 1em;
+    margin-bottom: 1em;
+    
+}
+div.left {
+    border: hidden;
+    width: 720px;
+    height: auto;
+    margin-left: 0;
+    clear: left;
+    float: left;
+    margin-top: .2em;
+    
+}
+
+footer a {
+    margin-right: 50px;
+}
+footer {
+    text-align: center;
+    margin: 0 auto;
+    text-decoration: none;
+    clear: left;
+    
+    
+}
+.nav{
+   text-align: center;
+   alignment-adjust: central;
+}
+#wrapper {
+	width: 960px;
+	margin-right: auto; 
+	margin-left: auto; 
+	border: thin solid;
+	background-color: white;
+        padding: 0;
+        height: auto;
+}
+.dmitriy{
+    border: hidden;
+    width: 45%;
+    float: left;
+    clear: right;
+    margin-top: .2em;
+    size: 200px;
+    margin-left: 0;
+    
+}
+
+
+.joe{
+    border: hidden;
+    width: 45%;
+    float: right;
+    margin-top: .2em;
+    size: 200px;
+    margin: 0;
+    
+
+}
+article img
+{
+    width: 350px;
+    height: 300px;
+}
+    
+
+article {
+    width: 940px;
+    height: 400px;
+    border: hidden;
+    font-size: 30px;
+
+    margin-top: 1em;
+    
+}
+
+
+
+div.foot1 {
+    display: inline;
+    font-size: 180%;
+    margin: 0px;
+    text-align: center;
+
+}
+
+div.left {
+    border: hidden;
+    width: 940px;
+    
+    margin-left: 0;
+    clear: left;
+    float: left;
+    margin-top: .2em;
+    
+}
+    
+    
+}
+div.left a {
+    color: #B40404;
+    
+    
+}
+article {
+    width: 940px;
+    height: auto;
+    border: hidden;
+
+
+    margin-top: 1em;
+    
+}
+
+
+
+
+div.foot1 {
+    display: inline;
+    font-size: 180%;
+    margin: .4px;
+           text-align: center;
+
+}
+.bikes img{
+    height: 300px;
+    width: 300px;
+    
+}
+.Lbike{
+    float: left;
+    margin-left: 3%;
+}
+
+.Rbike{
+    float: left;
+    left: 50%;
+    margin-left: 32%;
+    
+    
+}
+.inf1{
+    float: left;
+    margin-left: 3%;
+    font-size: 180%;
+    height: 250px;
+    width: 250px;
+    
+        
+}
+
+.inf2{
+    float: left;
+    left: 50%;
+    margin-left: 35%;
+    font-size: 180%;
+    height: 250px;
+    width: 250px;
+    
+}
